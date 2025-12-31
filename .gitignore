@@ -1,0 +1,7 @@
+dataset/
+__pycache__/
+.venv/
+.DS_Store
+*.pt
+*.pth
+.ipynb_checkpoints/
